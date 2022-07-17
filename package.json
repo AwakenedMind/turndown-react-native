@@ -1,5 +1,5 @@
 {
-  "name": "turndown",
+  "name": "turndown-react-native",
   "description": "A library that converts HTML to Markdown",
   "version": "7.1.1",
   "author": "Dom Christie",
@@ -37,7 +37,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mixmark-io/turndown.git"
+    "url": "https://github.com/AwakenedMind/turndown-react-native"
   },
   "scripts": {
     "build": "npm run build-cjs && npm run build-es && npm run build-umd && npm run build-iife",
